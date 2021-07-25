@@ -1,0 +1,42 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+    html {
+        font-size: 58%;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    html {
+        font-size: 54%;
+    }
+
+    .cards {
+        padding: 10rem 0;
+    }
+}
+
+@media (min-width: 0) and (max-width: 480px) {
+    html {
+        font-size: 50%;
+    }
+
+    .header-container {
+        flex-direction: column-reverse;
+        align-items: center;
+        height: auto;
+        padding: 8rem 0;
+    }
+
+    .header__hero {
+        margin-bottom: 11.4rem;
+    }
+
+    .cards {
+        padding: 7.5rem 0;
+        row-gap: 3rem;
+    }
+
+    .card {
+        width: 37.4rem;
+    }
+
+}
