@@ -148,6 +148,7 @@ html, body {
 
 .contact__textarea {
     margin-bottom: 3rem;
+    resize: none;
 }
 
 .contact__btn {
