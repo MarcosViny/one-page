@@ -35,7 +35,7 @@ $ start index.html
 
 ## Aprendizados
 **Tive a chance de revisar alguns tópicos e obter novos conhecimentos. Cabe pontuar:**
-- Propiedade GAP para definir o espaçamento enre linhas e colunas dos Cards
+- Propiedade GAP para definir o espaçamento entre linhas e colunas dos Cards
 - Animações criadas utilizando as bibliotecas ScrollReveal.js
 - Prática de Responsividade com CSS Units e Breakpoints
 - Organização de código com base na metodologia CSS - BEM
